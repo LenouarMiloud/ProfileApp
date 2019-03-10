@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ProfileMiloud</string>
+    <string name="MyName">Lenouar Miloud</string>
+    <string name="myEmail">lenouarmiloud@gmail.com</string>
+    <string name="myPhone">+213794515943</string>
+    <string name="addMeText">Add Me</string>
+    <string name="NotificationText">Show All The Notification</string>
+    <string name="followMeText">Follow Me</string>
 </resources>
